@@ -11,3 +11,12 @@ body{
     color: #000000;
 
 }
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    gap: 30px;
+}
