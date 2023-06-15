@@ -1,3 +1,13 @@
 body{
     background-color: bisque;
 }
+
+.header span{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+
+}
